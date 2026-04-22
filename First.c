@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Marvellous Infosystems\n");
+    printf("Jay Shree Ram..\n");
 
     return 0;
 }
